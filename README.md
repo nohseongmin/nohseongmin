@@ -1,5 +1,5 @@
 # test
-![GitHub watchers](https://img.shields.io/github/watchers/nohseongmin/MyAlt)
+![nohseongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohseongmin&theme=default&show_icons=true)
 
 <!--
 **nohseongmin/nohseongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
