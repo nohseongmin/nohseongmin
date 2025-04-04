@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub watchers](https://img.shields.io/github/watchers/:user/:repo)
+![GitHub watchers](https://img.shields.io/github/watchers/nohseongmin/:repo)
 
 <!--
 **nohseongmin/nohseongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
