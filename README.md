@@ -1,17 +1,12 @@
-# test
-![nohseongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohseongmin&theme=default&show_icons=true)
+# Noh Seongmin      <img align="right" src="https://komarev.com/ghpvc/?username=nohseongmin" alt="nohseongmin" />
++ InhaTechnical Colleage       <img position="absolute" margin="0" align="right" src="https://github-readme-stats.vercel.app/api?username=nohseongmin&show_icons=true" alt="stat" />
++ DataScience student 
++ Military service experience         
++ HARD WORK since 2003
+</br></br></br></br></br></br>
 
-<!--
-**nohseongmin/nohseongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+<img margin="0" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohseongmin&layout=compact"/>
+<img align="left" magrin="0" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img magrin="0" align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img align="left" magrin="0" src=	"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img magrin="0" align="left" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
+</br></br></br></br></br></br></br>
