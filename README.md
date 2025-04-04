@@ -3,7 +3,7 @@
 + DataScience student 
 + Military service experience         
 + HARD WORK since 2003
-</br></br></br></br></br></br>
+</br></br></br></br>
 
 # Skills
 <img margin="0" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohseongmin&layout=compact"/>
