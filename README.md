@@ -11,6 +11,7 @@
 <img align="left" magrin="0" src=	"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img magrin="0" align="left" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
 </br></br></br></br></br></br></br>
 
-
-[<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm9375693"/>](https://solved.ac/sm9375693)
+<a margin="auto" src="https://solved.ac/sm9375693">
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm9375693"/>
+</a>
 </br></br></br></br>
