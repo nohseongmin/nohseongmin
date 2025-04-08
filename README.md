@@ -12,5 +12,5 @@
 </br></br></br></br></br></br></br>
 
 
-[<img margin="0" align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=sm9375693"/>](https://solved.ac/sm9375693)
-</br></br></br></br></br></br></br>
+[<img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=sm9375693"/>](https://solved.ac/sm9375693)
+</br></br></br></br>
