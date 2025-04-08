@@ -10,4 +10,6 @@
 <img align="left" magrin="0" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img magrin="0" align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img align="left" magrin="0" src=	"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img magrin="0" align="left" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
 </br></br></br></br></br></br></br>
-<img margin="0" align="right" src="http://mazassumnida.wtf/api/v1/generate_badge?boj={nohseongmin}"/>
+
+
+[<img margin="0" align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=sm9375693"/>](https://solved.ac/ccoco)
