@@ -17,16 +17,17 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm9375693"/>
 </a>
 
-### 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📫 Contact Me
+
+# 📫 Contact Me
 <a href="mailto:sm9375693@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sungmin__03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
----
-
+# statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohseongmin&bg_color=0d1117&color=ffffff&line=00b4ab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
