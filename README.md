@@ -26,8 +26,8 @@
 
 
 # 📫 Contact Me
-<a href="mailto:sm9375693@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/sungmin__03/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:sm9375693@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> sm9375693@gmail.com
+<a href="https://www.instagram.com/sungmin__03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohseongmin&bg_color=0d1117&color=ffffff&line=00b4ab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
