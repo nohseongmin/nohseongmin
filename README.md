@@ -1,11 +1,11 @@
-# Noh Seongmin      <img align="right" src="https://komarev.com/ghpvc/?username=nohseongmin" alt="nohseongmin" />
+# 👋 Noh Seongmin      <img align="right" src="https://komarev.com/ghpvc/?username=nohseongmin" alt="nohseongmin" />
 + InhaTechnical Colleage       <img position="absolute" margin="0" align="right" src="https://github-readme-stats.vercel.app/api?username=nohseongmin&show_icons=true" alt="stat" />
 + DataScience student 
 + Military service experience         
 + HARD WORK since 2003
 </br></br></br></br>
 
-# Skills
+# 💻 Skills
 <img display="flex" align="right" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohseongmin&layout=compact"/>
 <!--
 <img  display="flex" align="left" magrin="0" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
