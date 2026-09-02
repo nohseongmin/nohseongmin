@@ -36,7 +36,7 @@
 # 📫 Contact Me
 📧 <a href="mailto:sm9375693@gmail.com">sm9375693@gmail.com</a>
 <br>
-<a href="https://www.instagram.com/sungmin__03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/03noh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # AI Proficiency
 <p>
