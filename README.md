@@ -1,22 +1,10 @@
-# 👋 Noh Seongmin      <img align="right" src="https://komarev.com/ghpvc/?username=nohseongmin" alt="nohseongmin" />
+# 👋 Noh Seongmin      
 + Inha Technical College       <img position="absolute" margin="0" align="right" src="https://github-readme-stats.vercel.app/api?username=nohseongmin&show_icons=true" alt="nohseongmin's github stats" />
 + DataScience student 
 + Military service experience         
 + HARD WORK since 2003
 </br></br></br></br>
-<!--
-# 💻 Skills
-<img display="flex" align="right" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohseongmin&layout=compact"/>
 
-<img  display="flex" align="left" magrin="0" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img display="flex" magrin="0" align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img display="flex" align="left" magrin="0" src="	https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
-<img display="flex" magrin="0" align="left" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
-
-<a display="flex" align="right" margin="0" src="https://solved.ac/sm9375693">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm9375693"/>
-</a>
--->
 
 # 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,20 +20,3 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-# 📫 Contact Me
-📧 <a href="mailto:sm9375693@gmail.com">sm9375693@gmail.com</a>
-<br>
-<a href="https://www.instagram.com/03noh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-# AI Proficiency
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-</p>
-
-# 📊 Statistics
-[![nohseongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nohseongmin&bg_color=0d1117&color=ffffff&line=00b4ab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
