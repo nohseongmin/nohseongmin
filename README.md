@@ -1,2 +1,3 @@
-# 👋 Noh Seongmin           
-+ HARD WORK since 2003
+# Noh Seongmin
+
+Working hard since 2003.
